@@ -4,4 +4,4 @@ We developed graphs and interactive charts that enable users to filter relevant 
 The repository includes three types of files:
 1. Excel data file.
 2. Python code and PowerBI file for interactive charts.
-3. PDF summary report explaining calculation measures, graphs, and conclusions drawn from the data."
+3. PDF summary report explaining calculation measures, graphs, and conclusions drawn from the data.
